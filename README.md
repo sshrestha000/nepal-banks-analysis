@@ -91,8 +91,7 @@ nepal-banks-analysis/
 │
 ├── README.md
 ├── nepal_banks_analysis.py     ← full analysis script
-└── data/
-    └── ClassA_Commercial_Banks.csv    ← input from scraper
+└──  ClassA_Commercial_Banks.csv    ← input from scraper
 ```
 
 ---
